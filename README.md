@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haydenw-uk
 - 👀 I’m interested in Artificial Intelligence Systems, specifically regarding Cyber Security
-- 🌱 I’m currently learning: Java
+- 🌱 I’m currently learning: C / C++
 - 📫 How to reach me: hayden@haydenwilliams.dev
 
 www.haydenwilliams.dev
