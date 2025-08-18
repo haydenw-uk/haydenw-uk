@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @haydenw-uk<br>👀 I’m interested in Cyber Security and AI<br>🌱 I’m currently experimenting with Agentic AI systems <br>📫 How to reach me: hayden@haydenwilliams.dev
+👋 Hi, I’m @haydenw-uk<br>👀 I’m interested in Cyber Security and AI<br>🌱 I’m currently working with Agentic AI systems <br>📫 How to reach me: hayden@haydenwilliams.dev
 
 
 ## 🌐 Socials:
